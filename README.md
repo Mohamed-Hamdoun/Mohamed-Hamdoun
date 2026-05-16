@@ -32,17 +32,21 @@
 <h3>💻 Programming Languages</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 <h3>🌐 Web Development</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 <h3>🧠 Other Skills</h3>
@@ -55,13 +59,15 @@
 
 <hr>
 
-<h2>📈 GitHub Stats</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedHamdoun&show_icons=true&theme=tokyonight" width="47%"/>
+  <!-- غير YOUR_USERNAME باليوزر الحقيقي بتاعك -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHamdoun&layout=compact&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="47%"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="47%"/>
 
 </div>
 
