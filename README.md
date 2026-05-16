@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hamdoun</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
-
 <h3 align="center">🚀 Passionate Developer & Tech Enthusiast</h3>
 
 <p align="center">
@@ -32,30 +28,20 @@
 <h3>💻 Programming Languages</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python" />
 </p>
 
 <h3>🌐 Web Development</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-<h3>🧠 Other Skills</h3>
+<h3>🧠 Tools</h3>
 
-<ul>
-  <li>Basic understanding of Artificial Intelligence concepts</li>
-  <li>Microsoft Office</li>
-  <li>Internet & Computer Skills</li>
-</ul>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 <hr>
 
@@ -63,24 +49,20 @@
 
 <div align="center">
 
-  <!-- غير YOUR_USERNAME باليوزر الحقيقي بتاعك -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="47%"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="47%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </div>
 
 <hr>
 
-<h2>🔥 Motto</h2>
+<h2 align="center">🔥 Motto</h2>
 
 <p align="center">
-  <b>"Code. Learn. Improve. Repeat."</b>
+  <b>Code. Learn. Improve. Repeat.</b>
 </p>
 
 <hr>
 
-<div align="center">
-  <h3>❤️ Thanks for visiting my profile ❤️</h3>
-</div>
+<h3 align="center">❤️ Thanks for visiting my profile ❤️</h3>
